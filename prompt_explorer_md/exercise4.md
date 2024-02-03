@@ -1,0 +1,5 @@
+# Q: Design a workflow engine
+
+This faced similar problems to exercise 3. The common mistakes to summarize are - main method not within class, not having required libraries, etc. which lead to a compilation error. Essentially, there is no contextual error but more of lack of pre-compilation. The context of the code used is not checked with the library present. I presume a strictly coding GPT would jump over this hurdle easily. Comparing it with the youtube app creation I had tried, it faced similar problems. 
+
+As a contextual model understands code prompts and answers to it, you can say it faces similar diffusion problems like the 5+ finger errors in image diffusions. Negative biases would easily improve a text-based code, but a noobie would face difficulty at finding the improvement areas crucial to the code. 
